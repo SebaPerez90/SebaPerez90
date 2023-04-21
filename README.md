@@ -1,4 +1,4 @@
-## EN 🌏
+### EN 🌏
 <h1 align=center>Hello ! 👋 My name is <strong>Sebastian Perez</strong>.</h1>
 <p align=center>FRONT END DEVELOPER</p>
 <br>
