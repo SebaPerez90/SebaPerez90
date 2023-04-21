@@ -6,7 +6,7 @@
 Currently I continue to train in a autodidact way and creating personal projects to be able to demonstrate the current skills that I have. <br><br>
 I am doing an internship in a United States company in New York <b>"GAO Tek Inc"</b>. It is my first work experience in the IT area. I hope it's the beginning of my dream! . Live from what I love to do💛
 <br><br>
-<hr>
+
 <h3 align="center">Connect with me :</h3><br>
 
 All my proyects are available in  🧑🏽‍💻   <br> [https://github.com/SebaPerez90](https://github.com/SebaPerez90) <br><br>
@@ -15,7 +15,6 @@ For job you can contact me here 💌 <br>sebastian.perez.jobs@gmail.com <br><br>
 
 All my proyects are available in GitHub 💼<br> [https://github.com/SebaPerez90](https://github.com/SebaPerez90) <br><br><br>
 
-<hr>
 
 <h2 >Skills :</h2>
 <li><b>REACT.JS</b><span> (medium)</span></li>
