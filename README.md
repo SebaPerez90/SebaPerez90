@@ -17,7 +17,7 @@ All my proyects are available in GitHub 💼<br> [https://github.com/SebaPerez90
 
 <hr>
 
-<h1 >Skills :</h1>
+<h2 >Skills :</h2>
 <li><b>REACT.JS</b><span> (medium)</span></li>
 <li align="center"><b>JAVASCRIPT</b> <span> (medium)</span></li>
 <li><b>BOOTSTRAP</b><span> (medium)</span></li>
