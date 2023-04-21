@@ -26,3 +26,34 @@ All my proyects are available in GitHub 💼<br> [https://github.com/SebaPerez90
 <li><b>CSS</b><span> (high)</span></li>
 <li align="center"><b>HTML</b><span> (high)</span></li>
 
+<br><br>
+<hr>
+<br><br>
+
+### ES 🌎
+<h1 align=center>Hola ! 👋 Mi nombre es <strong>Sebastian Perez</strong>.</h1>
+<p align=center>FRONT END DEVELOPER</p>
+<br>
+<p align="left">Hola, actualmente como programador estoy enfocado en el front end, mi objetivo es especializarme más en este sector para poder elevar mis habilidades al máximo que pueda. Me encanta esta área, me encanta todo lo relacionado con ella y también aprender más y más día a día. <br> <br>
+Actualmente sigo formándome de forma autodidacta y creando proyectos personales para poder demostrar las habilidades actuales que tengo.<br><br>
+Estoy haciendo prácticas en una empresa de Estados Unidos en Nueva York <b>"GAO Tek Inc"</b>. Es mi primera experiencia laboral en el área de TI. ¡Espero que sea el comienzo de mi sueño! . vivir de lo que amo hacer💛
+<br><br>
+
+<h3 align="center">Ponte en contacto conmigo :</h3><br>
+
+All my proyects are available in  🧑🏽‍💻   <br> [https://github.com/SebaPerez90](https://github.com/SebaPerez90) <br><br>
+
+For job you can contact me here 💌 <br>sebastian.perez.jobs@gmail.com <br><br>
+
+All my proyects are available in GitHub 💼<br> [https://github.com/SebaPerez90](https://github.com/SebaPerez90) <br><br><br>
+
+
+<h2 >Habilidades :</h2>
+<li><b>REACT.JS</b><span> (medium)</span></li>
+<li align="center"><b>JAVASCRIPT</b> <span> (medium)</span></li>
+<li><b>BOOTSTRAP</b><span> (medium)</span></li>
+<li align="center"><b>INGLES COMPREHENSION</b><span> (high)</span></li>
+<li><b>INGLES ORAL</b><span> (basic)</span></li>
+<li align="center"><b>SASS</b> <span> (basic)</span></li>
+<li><b>CSS</b><span> (high)</span></li>
+<li align="center"><b>HTML</b><span> (high)</span></li>
