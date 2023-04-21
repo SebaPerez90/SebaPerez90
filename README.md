@@ -14,7 +14,7 @@ For job you can contact me here 💌 <br>sebastian.perez.jobs@gmail.com <br><br>
 
 All my proyects are available in GitHub 💼<br> [https://github.com/SebaPerez90](https://github.com/SebaPerez90) <br><br><br>
 
-
+<h2> holaaaaa </h2>
 <h1 >Skills :</h1>
 <li><b>REACT.JS</b><span> (medium)</span></li>
 <li align="center"><b>JAVASCRIPT</b> <span> (medium)</span></li>
