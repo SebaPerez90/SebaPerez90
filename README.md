@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, my name is Sebastian</h1>
-<h2 align="center">"Front End Develepor"</h2>
+## EN 🌏
+<h1 align=center>Hello ! 👋 My name is <strong>Sebastian Perez</strong>.</h1>
 <br>
 <p align="left">Hello, currently as a programmer I am focused on the front end, my goal is to specialize more in this sector to be able to raise my skills to the maximum that I can. I love this area, I love everything related to it and also learning more and more day by day. <br> <br>
 Currently I continue to train in a autodidact way and creating personal projects to be able to demonstrate the current skills that I have. <br><br>
