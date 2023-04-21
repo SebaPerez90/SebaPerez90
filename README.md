@@ -13,7 +13,7 @@ All my proyects are available in  🧑🏽‍💻   <br> [https://github.com/Seb
 
 For job you can contact me here 💌 <br>sebastian.perez.jobs@gmail.com <br><br>
 
-All my proyects are available in GitHub 💼<br> [https://github.com/SebaPerez90](https://github.com/SebaPerez90) <br><br><br>
+To know more about me 💼<br> [https://www.linkedin.com/in/sebaperez90/](https://www.linkedin.com/in/sebaperez90/) <br><br><br>
 
 
 <h2 >Skills :</h2>
@@ -41,11 +41,11 @@ Estoy haciendo prácticas en una empresa de Estados Unidos en Nueva York <b>"GAO
 
 <h3 align="center">Ponte en contacto conmigo :</h3><br>
 
-All my proyects are available in  🧑🏽‍💻   <br> [https://github.com/SebaPerez90](https://github.com/SebaPerez90) <br><br>
+Todos mi proyectos disponibles en  🧑🏽‍💻   <br> [https://github.com/SebaPerez90](https://github.com/SebaPerez90) <br><br>
 
-For job you can contact me here 💌 <br>sebastian.perez.jobs@gmail.com <br><br>
+Por trabajo podes contactarme por aqui 💌 <br>sebastian.perez.jobs@gmail.com <br><br>
 
-All my proyects are available in GitHub 💼<br> [https://github.com/SebaPerez90](https://github.com/SebaPerez90) <br><br><br>
+Para conocer mas acerca de mi  💼<br> [https://www.linkedin.com/in/sebaperez90/](https://www.linkedin.com/in/sebaperez90/) <br><br><br>
 
 
 <h2 >Habilidades :</h2>
