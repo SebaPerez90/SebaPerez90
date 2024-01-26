@@ -1,6 +1,5 @@
 ### ESP 🌎
 <h1 align=center>Hola ! 👋 Mi nombre es <strong>Sebastian Perez</strong></h1>
-
 <div align=center>
 
 ### Frontend | Backend | Base de Datos | Ingles
@@ -34,8 +33,6 @@ Para conocer mas acerca de mi  💼<br> [https://www.linkedin.com/in/sebaperez90
 
 ### ENG 🌎
 <h1 align=center>Hello! 👋 My name is <strong>Sebastian Perez</strong></h1>
-<br>
-
 <div align=center>
   
 ### Frontend | Backend | Databases | English
