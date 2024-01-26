@@ -1,6 +1,6 @@
-### ESPAÑOL
+### ESP
 
->[english_documentation](#english)
+>[eng](#eng)
 
 <h1 align=center>Hola ! 👋 Mi nombre es <strong>Sebastian Perez</strong></h1>
 <div align=center>
@@ -45,9 +45,9 @@ Para conocer mas acerca de mi  💼<br> [https://www.linkedin.com/in/sebaperez90
 
 ***
 
-### ENGLISH
+### ENG
 
->[documentación_en_español](#español)
+>[esp](#es)
 
 <h1 align=center>Hello! 👋 My name is <strong>Sebastian Perez</strong></h1>
 <div align=center>
