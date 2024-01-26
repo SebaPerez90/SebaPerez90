@@ -23,11 +23,15 @@ se vea la diferencia de crecimiento.
 - Node.js
 - Git
 
+<br><br>
+
 ## Ponte en contacto conmigo :
 
 Por trabajo podes contactarme por aqui 💌 <br>sebastian.perez.jobs@gmail.com <br><br>
 
 Para conocer mas acerca de mi  💼<br> [https://www.linkedin.com/in/sebaperez90/](https://www.linkedin.com/in/sebaperez90/) <br><br><br>
+
+<br><br>
 
 ***
 
@@ -57,6 +61,7 @@ I invite you to explore the work done in the projects section. I decided to leav
 - Node.js
 - Git
 
+<br><br>
 ## Get in touch with me :
 For work, you can contact me here 💌 <br>sebastian.perez.jobs@gmail.com <br><br>
 
