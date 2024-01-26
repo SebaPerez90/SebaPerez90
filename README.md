@@ -3,7 +3,7 @@
 
 <div align=center>
 
-### Estudiante autodidacta en programación :
+## Estudiante autodidacta en programación :
 ### Frontend | Backend | Base de Datos | Ingles
 
 </div>
