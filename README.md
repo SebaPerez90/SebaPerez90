@@ -6,7 +6,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 Estoy comprometido con el aprendizaje continuo ,ya que creo que lo se necesita para poder crecer en el área es perseverancia y determinación.
 Te invito a explorar el trabajo realizado en la sección de proyectos. Decidí dejar los proyectos tal cual los publique en su momento para que 
@@ -45,7 +45,7 @@ Para conocer mas acerca de mi  💼<br> [https://www.linkedin.com/in/sebaperez90
 
 </div>
 
-<br><br>
+<br>
 
 I am committed to continuous learning because I believe that what is needed to grow in the field is perseverance and determination.
 I invite you to explore the work done in the projects section. I decided to leave the projects as I published them at the time so that you can see the difference in growth.
