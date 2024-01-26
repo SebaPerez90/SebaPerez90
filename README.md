@@ -1,6 +1,6 @@
 ### ESP
 
->[eng](#eng)
+>[eng-bio](#eng)
 
 <h1 align=center>Hola ! 👋 Mi nombre es <strong>Sebastian Perez</strong></h1>
 <div align=center>
@@ -47,7 +47,7 @@ Para conocer mas acerca de mi  💼<br> [https://www.linkedin.com/in/sebaperez90
 
 ### ENG
 
->[esp](#es)
+>[esp-bio](#es)
 
 <h1 align=center>Hello! 👋 My name is <strong>Sebastian Perez</strong></h1>
 <div align=center>
