@@ -6,12 +6,13 @@
 
 </div>
 
-<br><br><br><br>
+<br><br>
 
 Estoy comprometido con el aprendizaje continuo ,ya que creo que lo se necesita para poder crecer en el área es perseverancia y determinación.
 Te invito a explorar el trabajo realizado en la sección de proyectos. Decidí dejar los proyectos tal cual los publique en su momento para que 
 se vea la diferencia de crecimiento. 
-<br><br>
+
+<br><br><br><br>
 
 ## Conocimientos :
 
