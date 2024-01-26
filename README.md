@@ -1,10 +1,12 @@
 ### ESP 🌎
 <h1 align=center>Hola ! 👋 Mi nombre es <strong>Sebastian Perez</strong>.</h1>
-<br>
+
+<div align=center>
 
 ### Estudiante autodidacta en programación :
 ### Frontend | Backend | Base de Datos | Ingles
 
+</div>
 <br><br>
 
 Estoy comprometido con el aprendizaje continuo ,ya que creo que lo se necesita para poder crecer en el área es perseverancia y determinación.
