@@ -1,9 +1,8 @@
 ### ESP 🌎
-<h1 align=center>Hola ! 👋 Mi nombre es <strong>Sebastian Perez</strong>.</h1>
+<h1 align=center>Hola ! 👋 Mi nombre es <strong>Sebastian Perez</strong>-estudiante autodidacta</h1>
 
 <div align=center>
 
-## Estudiante autodidacta en programación :
 ### Frontend | Backend | Base de Datos | Ingles
 
 </div>
