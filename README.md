@@ -16,13 +16,13 @@ se vea la diferencia de crecimiento.
 
 ## Conocimientos :
 
-### - React.js
-### - Javascript
-### - Base de Datos
-### - Css / Sass / Tailwindcss
-### - HTML
-### - Ingles
-### - Node.js
+- React.js
+- Javascript
+- Base de Datos
+- Css / Sass / Tailwindcss
+- HTML
+- Ingles
+- Node.js
 
 ***
 ## Ponte en contacto conmigo :
