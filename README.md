@@ -14,16 +14,15 @@ Te invito a explorar el trabajo realizado en la sección de proyectos. Decidí d
 se vea la diferencia de crecimiento. 
 <br><br>
 
-***
 ## Conocimientos :
 
-### -React.js
-### -Javascript
-### -Base de Datos
-### -Css / Sass / Tailwindcss
-### -HTML
-### -Ingles
-### -Node.js
+### - React.js
+### - Javascript
+### - Base de Datos
+### - Css / Sass / Tailwindcss
+### - HTML
+### - Ingles
+### - Node.js
 
 ***
 ## Ponte en contacto conmigo :
