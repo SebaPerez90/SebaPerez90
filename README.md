@@ -1,4 +1,4 @@
-## ¡Hola! soy Sebastian Perez 👋
+# ¡Hola! soy Sebastian Perez 👋
 
 FullStack Developer | React.js | Express.js | PostgreSQL | Typescript
 
