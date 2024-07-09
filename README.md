@@ -19,22 +19,17 @@ Tengo una fuerte orientación en el área Frontend, con habilidades blandas que 
  
 - Portfolio: https://sebaperez-portfolio.vercel.app/
 
-<br>
-
-
 <br><br>
-__
+
 <h3 align="center">Skills 🧑‍💻</h3> 
 
 **Frontend**
-- React.js
+- React.js - Sass
 - Javascript
-- Base de Datos
-- Css / Sass / Tailwind
+- Typescript
+- CSS Sass / Tailwind
 - HTML
-- Ingles
-- Node.js
-- Git
+
 
 <br><br>
 
