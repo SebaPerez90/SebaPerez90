@@ -14,9 +14,9 @@ Tengo una fuerte orientación en el área Frontend, con habilidades blandas que 
  Tengo mucho para aportar y estoy ansioso por poder demostrarlo. 🔥
 
 <br>
-Linkedin: https://sebaperez-portfolio.vercel.app/](https://www.linkedin.com/in/sebaperez90/
+- Linkedin: https://www.linkedin.com/in/sebaperez90/
 
-Portfolio: https://github.com/SebaPerez90](https://sebaperez-portfolio.vercel.app/
+- Portfolio: https://sebaperez-portfolio.vercel.app/
 
 <br>
 
