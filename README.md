@@ -23,9 +23,10 @@ Tengo una fuerte orientación en el área Frontend, con habilidades blandas que 
 
 
 <br><br>
+__
+<h3 align="center">Skills 🧑‍💻</h3> 
 
-## Conocimientos :
-
+**Frontend**
 - React.js
 - Javascript
 - Base de Datos
