@@ -1,4 +1,4 @@
-# ¡Hola! soy Sebastian Perez 👋
+<h1 align="center">¡Hola! soy Sebastian Perez 👋</h1> 
 
 FullStack Developer | React.js | Express.js | PostgreSQL | Typescript
 
