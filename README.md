@@ -2,8 +2,6 @@
 
 FullStack Developer | React.js | Express.js | PostgreSQL | Typescript
 
-</div>
-
 <br>
 
 ## Acerca de mi :
@@ -16,13 +14,15 @@ Tengo una fuerte orientación en el área Frontend, con habilidades blandas que 
  Tengo mucho para aportar y estoy ansioso por poder demostrarlo. 🔥
 
 Portfolio : https://sebaperez-portfolio.vercel.app/
+
+<br>
+
 Github: https://github.com/SebaPerez90
 
 <br>
 
-Actualmente estoy en busqueda laboral.
 
-<br><br><br><br>
+<br><br>
 
 ## Conocimientos :
 
