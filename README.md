@@ -1,7 +1,6 @@
-<h1 align=center>Hola ! 👋 Mi nombre es <strong>Sebastian Perez</strong></h1>
-<div align=center>
+## ¡Hola! soy Sebastian Perez 👋
 
-### Frontend | Backend | Base de Datos | Ingles
+### FullStack Developer | React.js | Express.js | PostgreSQL | Typescript
 
 </div>
 
