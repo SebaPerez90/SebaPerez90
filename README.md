@@ -15,29 +15,29 @@ Tengo una fuerte orientación en el área Frontend, con habilidades blandas que 
 
 <br><br>
 
-- Linkedin: https://www.linkedin.com/in/sebaperez90/
+- **Linkedin:** https://www.linkedin.com/in/sebaperez90/
  
-- Portfolio: https://sebaperez-portfolio.vercel.app/
+- **Portfolio:** https://sebaperez-portfolio.vercel.app/
+
+- **Email:** sebastian.perez.jobs@gmail.com 
 
 <br><br>
 
 <h3 align="center">Skills 🧑‍💻</h3> 
 
 **Frontend**
-- React.js - Sass
-- Javascript
-- Typescript
-- CSS Sass / Tailwind
-- HTML
+- React.js | Sass | Javascript | Typescript | CSS | Tailwind | Next.js
+
+**Backend**
+- Node.js | Express.js | PostgreSQL | MongoDB | Git | Github | Docker | NestJS | TypeORM | Jira
+
+**Soft Skills**
+- Colaboración | Comunicación Efectiva | Proactividad | Dedicación | Liderazgo | SCRUM
 
 
-<br><br>
 
-## Ponte en contacto conmigo :
 
-Por trabajo podes contactarme por aqui 💌 <br>sebastian.perez.jobs@gmail.com <br><br>
 
-Para conocer mas acerca de mi  💼<br> [https://www.linkedin.com/in/sebaperez90/](https://www.linkedin.com/in/sebaperez90/) <br><br><br>
 
 
 
