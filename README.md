@@ -4,7 +4,8 @@
 
 <br>
 
-## Acerca de mi :
+<h3 align="center">About me🧑‍💻</h3> 
+
 ¡Hola! Soy Sebastián, un desarrollador Fullstack que reside en Buenos Aires, Argentina. Estoy en busca de nuevas oportunidades laborales que me permitan seguir desarrollándome profesionalmente.
 
 La adaptabilidad y el aprendizaje continuo son pilares fundamentales en mi campo, por eso, siempre estoy en la búsqueda de maneras de mejorar mis habilidades técnicas y de servicio. 🚀
