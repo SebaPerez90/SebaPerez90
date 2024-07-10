@@ -22,6 +22,7 @@ Tengo una fuerte orientación en el área Frontend, con habilidades blandas que 
 
 - **Email:** sebastian.perez.jobs@gmail.com 
 
+
 <br><br>
 
 <h3 align="center">Skills 🧑‍💻</h3> 
