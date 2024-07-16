@@ -1,5 +1,7 @@
 <h1 align="center">¡Hola! soy Sebastian Perez 👋</h1> 
 
+![ Web Developer](https://www.linkedin.com/in/sebaperez90/overlay/background-image/)
+
 <p align="center">FullStack Developer | React.js | Express.js | PostgreSQL | Typescript<p>
 
 <br>
