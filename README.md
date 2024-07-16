@@ -39,6 +39,6 @@ Tengo una fuerte orientación en el área Frontend, con habilidades blandas que 
 - Colaboración | Comunicación Efectiva | Proactividad | Dedicación | Liderazgo | SCRUM
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=SebaPerez90&label=Profile%20views&color=5B66CD" alt="SebaPerez90" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=SebaPerez90&label=Profile%20views&color=515BB9&style=flat" alt="SebaPerez90" /> </p>
 
 
