@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! soy Sebastian Perez 👋</h1> 
 
-![ Web Developer](https://www.linkedin.com/in/sebaperez90/overlay/background-image/)
+![ Web Developer]([https://www.linkedin.com/in/sebaperez90/overlay/background-image/](https://media.licdn.com/dms/image/D4D16AQF1OC-xmDl1qg/profile-displaybackgroundimage-shrink_350_1400/0/1716315823115?e=1726704000&v=beta&t=W9vtFYUh6NYxUATLHzeYuvheOduvdRQlEtfVPs7Qx4Q))
 
 <p align="center">FullStack Developer | React.js | Express.js | PostgreSQL | Typescript<p>
 
