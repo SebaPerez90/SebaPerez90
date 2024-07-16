@@ -40,4 +40,4 @@ Tengo una fuerte orientación en el área Frontend, con habilidades blandas que 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=SebaPerez90&label=Profile%20views&color=0e75b6&style=flat" alt="SebaPerez90" /> </p>
 
 
-![asado](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![React](https://img.shields.io/badge/React.js-13ADF3)
