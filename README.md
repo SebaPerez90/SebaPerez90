@@ -28,7 +28,8 @@ Tengo una fuerte orientación en el área Frontend, con habilidades blandas que 
 <h3 align="center">Skills 🧑‍💻</h3> 
 
 **Frontend**
-- React.js | Sass | Javascript | Typescript | CSS | Tailwind | Next.js
+- ![React](https://img.shields.io/badge/React.js-087ea4) | ![Sass](https://img.shields.io/badge/Sass-bf4080) | ![Javascript](https://img.shields.io/badge/Javascript-F8F818)
+ | Typescript | CSS | Tailwind | Next.js
 
 **Backend**
 - Node.js | Express.js | PostgreSQL | MongoDB | Git | Github | Docker | NestJS | TypeORM | Jira
@@ -40,4 +41,6 @@ Tengo una fuerte orientación en el área Frontend, con habilidades blandas que 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=SebaPerez90&label=Profile%20views&color=0e75b6&style=flat" alt="SebaPerez90" /> </p>
 
 
-![React](https://img.shields.io/badge/React.js-13ADF3)
+
+
+![Javascript](https://img.shields.io/badge/Javascript-F8F818)
