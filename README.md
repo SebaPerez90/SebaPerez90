@@ -37,6 +37,7 @@ Tengo una fuerte orientación en el área Frontend, con habilidades blandas que 
 - Colaboración | Comunicación Efectiva | Proactividad | Dedicación | Liderazgo | SCRUM
 
 
+
 <p align="right"><a href="https://youtu.be/yURRmWtbTbo?t=13" target="_blank"><img src="https://user-images.githubusercontent.com/89199369/172076908-d8dc8d96-01cb-4c3f-8ccd-c57e7d4d3f2f.gif" height="auto" width="50"></a></p>
  
  <!--
@@ -47,13 +48,4 @@ Tengo una fuerte orientación en el área Frontend, con habilidades blandas que 
 </p>
 -->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=madahva&label=Profile%20views&color=0e75b6&style=flat" alt="madahva" /> </p>
-
-
-
-
-
-
-
-
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=SebaPerez90&label=Profile%20views&color=0e75b6&style=flat" alt="SebaPerez90" /> </p>
