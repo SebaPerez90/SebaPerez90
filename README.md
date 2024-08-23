@@ -1,7 +1,6 @@
 <h1 align="center">¡Hola! soy Sebastian Perez 👋</h1> 
 
-![ Web Developer](https://media.licdn.com/dms/image/D4D16AQF1OC-xmDl1qg/profile-displaybackgroundimage-shrink_350_1400/0/1716315823115?e=1726704000&v=beta&t=W9vtFYUh6NYxUATLHzeYuvheOduvdRQlEtfVPs7Qx4Q)
-
+![ Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFXfwNh8o04eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724223131760?e=1729728000&v=beta&t=uRsyjtB6XucREWf55-R3W3V__8BVufYeUBFPsAzo5io)
 <p align="center">FullStack Developer | React.js | Express.js | PostgreSQL | Typescript<p>
 
 <br>
