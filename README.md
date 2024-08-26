@@ -25,7 +25,6 @@ Actualmente tengo el cargo de **Desarrollador Frontend en Gravitand**. Podes con
 <h3 align="center">Habilidades 🧑‍💻</h3> 
 
 **Frontend Stack:**
-
 - React.js
 - Tailwind CSS
 - Next.js
@@ -33,7 +32,6 @@ Actualmente tengo el cargo de **Desarrollador Frontend en Gravitand**. Podes con
 - CSS (puro) y Sass (preprocesador)
 
 **Backend Stack:**
-
 - Node.js
 - Express.js
 - NestJS
@@ -42,14 +40,12 @@ Actualmente tengo el cargo de **Desarrollador Frontend en Gravitand**. Podes con
 - Docker
 
 **Herramientas:**
-
 - Git
 - Github
 - Jira
 - SCRUM
 
 **Soft Skills:**
-
 - Autosuficiente 
 - Comunicación Efectiva
 - Proactividad
