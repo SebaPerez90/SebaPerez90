@@ -1,19 +1,15 @@
 <h1 align="center">¡Hola! soy Sebastian Perez 👋</h1> 
 
 ![ Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFXfwNh8o04eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724223131760?e=1729728000&v=beta&t=uRsyjtB6XucREWf55-R3W3V__8BVufYeUBFPsAzo5io)
-<p align="center">FullStack Developer | React.js | Express.js | PostgreSQL | Typescript<p>
+<p align="center">Desarrollador Frontend | React | Next.js | TailwindCSS | Typescript | Express | PostgreSQL<p>
 
 <br>
 
 <h3 align="center">About me🧑‍💻</h3> 
 
-¡Hola! Soy Sebastián, un desarrollador Fullstack que reside en Buenos Aires, Argentina. Estoy en busca de nuevas oportunidades laborales que me permitan seguir desarrollándome profesionalmente.
+¡Hola! Soy Sebastián, desarrollador frontend vivo en Buenos Aires y cuento con más de 2 años de experiencia en el área de desarrollo de software. Gracias a mi versatilidad, también tengo una sólida experiencia en el área de desarrollo backend. Trabajé por más de 12 años en el sector gastronómico, como mozo de salón. Lo cual me dió muchas herramientas personales y profesionales para trabajar en equipo, bajo presión y adaptabilidad, que hoy las uso y demuestro en el sector tecnológico.
 
-La adaptabilidad y el aprendizaje continuo son pilares fundamentales en mi campo, por eso, siempre estoy en la búsqueda de maneras de mejorar mis habilidades técnicas y de servicio. 🚀
-
-Tengo una fuerte orientación en el área Frontend, con habilidades blandas que me permiten adaptarme a cualquier entorno laboral y la perseverancia necesaria para que ninguna tecnología sea un obstáculo💪.
-
- Tengo mucho para aportar y estoy ansioso por poder demostrarlo. 🔥
+Actualmente tengo el cargo de **Desarrollador Frontend en Gravitand**. Podes contactarme para proyectos freelance, escribime y contame tu necesidad, asi juntos le damos vida a tu proyecto y hacemos despegar tus ingresos  🤑 🤑 🤑 🚀.
 
 <br><br>
 
@@ -26,16 +22,38 @@ Tengo una fuerte orientación en el área Frontend, con habilidades blandas que 
 
 <br><br>
 
-<h3 align="center">Skills 🧑‍💻</h3> 
+<h3 align="center">Habilidades 🧑‍💻</h3> 
 
-**Frontend**
-- React.js | Sass | Javascript | Typescript | CSS | Tailwind | Next.js
+**Frontend Stack:**
 
-**Backend**
-- Node.js | Express.js | PostgreSQL | MongoDB | Git | Github | Docker | NestJS | TypeORM | Jira
+- React.js
+- Tailwind CSS
+- Next.js
+- Typescript y Javascript
+- CSS (puro) y Sass (preprocesador)
 
-**Soft Skills**
-- Colaboración | Comunicación Efectiva | Proactividad | Dedicación | Liderazgo | SCRUM
+**Backend Stack:**
+
+- Node.js
+- Express.js
+- NestJS
+- PostgreSQL y ORM´s dedicados
+- MongoDB y Mongoose
+- Docker
+
+**Herramientas:**
+
+- Git
+- Github
+- Jira
+- SCRUM
+
+**Soft Skills:**
+
+- Autosuficiente 
+- Comunicación Efectiva
+- Proactividad
+- Dedicación
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=SebaPerez90&label=Profile%20views&color=515BB9&style=flat" alt="SebaPerez90" /> </p>
