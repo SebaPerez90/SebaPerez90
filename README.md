@@ -18,7 +18,7 @@ Actualmente estoy trabajando como desarrollador frontend en una startup de Espa√
 - Typescript y Javascript
 - CSS (puro) y Sass (preprocesador)
 
-<br><br>
+<br>
 
 **Backend Stack:**
 - Git
@@ -32,7 +32,7 @@ Actualmente estoy trabajando como desarrollador frontend en una startup de Espa√
 - ORMs
 - ODMs
 
-<br><br>
+<br>
 
 **Soft Skills:**
 - Jira
@@ -45,7 +45,7 @@ Actualmente estoy trabajando como desarrollador frontend en una startup de Espa√
 -Jugador de equipo
 
 
-<br><br>
+<br>
 
 <h3 align="center">CONECTEMOS!</h3> 
 
