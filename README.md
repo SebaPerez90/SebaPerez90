@@ -1,21 +1,21 @@
 <h1 align="center">¡Hola! soy Sebastian Perez 👋</h1> 
 
 ![ Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFXfwNh8o04eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724223131760?e=1735171200&v=beta&t=OCpGixauHcjTFo18wGkdoDmLjzfjDWZ7raNYFUKwYOI)](https://media.licdn.com/dms/image/v2/D4E16AQFXfwNh8o04eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724223131760?e=1735171200&v=beta&t=OCpGixauHcjTFo18wGkdoDmLjzfjDWZ7raNYFUKwYOI)
-<p align="center">Desarrollador Frontend | React | Next.js | TailwindCSS | Typescript | Express | PostgreSQL<p>
+<p align="center">Desarrollador Frontend | Desarrollador Backend | Desarrollador Freelance<p>
 
 <br>
 
-<h3 align="center">About me🧑‍💻</h3> 
-
-¡Hola! Soy Sebastián, desarrollador frontend vivo en Buenos Aires y cuento con más de 2 años de experiencia en el área de desarrollo de software. Gracias a mi versatilidad, también tengo una sólida experiencia en el área de desarrollo backend. Trabajé por más de 12 años en el sector gastronómico, como mozo de salón. Lo cual me dió muchas herramientas personales y profesionales para trabajar en equipo, bajo presión y adaptabilidad, que hoy las uso y demuestro en el sector tecnológico.
-
-Actualmente tengo el cargo de **Desarrollador Frontend en Gravitand**. Podes contactarme para proyectos freelance, escribime y contame tu necesidad, asi juntos le damos vida a tu proyecto y hacemos despegar tus ingresos  🤑 🤑 🤑 🚀.
+¡Hola! Soy Sebastián, desarrollador frontend vivo en Buenos Aires y cuento con más de 2 años de experiencia en el área de desarrollo de software. Gracias a mi versatilidad, también tengo una sólida experiencia en el área de desarrollo backend.
+<br>
+Actualmente estoy trabajando como desarrollador frontend en una startup de España y también desarrollador freelance independiente. Estoy abierto a posiciones y desafio que me permitan mejorar mi perfil profesional.
 
 <br><br>
 
-- **Linkedin:** https://www.linkedin.com/in/sebaperez90/
+- **Linkedin:** [https://www.linkedin.com/in/sebaperez90/](https://www.linkedin.com/in/sebaperez90/)
  
-- **Portfolio:** https://sebaperez-portfolio.vercel.app/
+- **Portfolio:** [https://sebaperez-portfolio.vercel.app/](https://sebaperez-portfolio-v2.vercel.app/)
+
+- **Servicios:** [https://codevibes.vercel.app/]
 
 - **Email:** sebastian.perez.jobs@gmail.com 
 
@@ -32,25 +32,27 @@ Actualmente tengo el cargo de **Desarrollador Frontend en Gravitand**. Podes con
 - CSS (puro) y Sass (preprocesador)
 
 **Backend Stack:**
+- Git
+- Github
 - Node.js
 - Express.js
 - NestJS
-- PostgreSQL y ORM´s dedicados
-- MongoDB y Mongoose
+- PostgreSQL
+- MongoDB
 - Docker
+- ORMs
+- ODMs
 
-**Herramientas:**
-- Git
-- Github
-- Jira
-- SCRUM
 
 **Soft Skills:**
-- Autosuficiente 
-- Comunicación Efectiva
-- Proactividad
-- Dedicación
-
+- Jira
+- SCRUM agile
+- Autodidacta 
+- Ingles intermedio (B1)
+- Nativo en español
+- Adaptabilidad
+- Resolución de problemas
+-Jugador de equipo
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=SebaPerez90&label=Profile%20views&color=515BB9&style=flat" alt="SebaPerez90" /> </p>
 
