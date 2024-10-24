@@ -10,7 +10,7 @@ Actualmente estoy trabajando como desarrollador frontend en una startup de Espa√
 <br><br>
 
 
-<h3 align="center">Habilidades</h3> 
+<h3 align="center">HABILIDADES</h3> 
 
 **Frontend Stack:**
 - React.js
@@ -48,7 +48,7 @@ Actualmente estoy trabajando como desarrollador frontend en una startup de Espa√
 
 <br><br>
 
-<h3 align="center">Conectemos!</h3> 
+<h3 align="center">CONECTEMOS!</h3> 
 
 - **Linkedin:** [https://www.linkedin.com/in/sebaperez90/](https://www.linkedin.com/in/sebaperez90/)
  
