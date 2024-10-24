@@ -19,6 +19,8 @@ Actualmente estoy trabajando como desarrollador frontend en una startup de Espa√
 - Typescript y Javascript
 - CSS (puro) y Sass (preprocesador)
 
+<br>
+
 **Backend Stack:**
 - Git
 - Github
@@ -31,6 +33,7 @@ Actualmente estoy trabajando como desarrollador frontend en una startup de Espa√
 - ORMs
 - ODMs
 
+<br>
 
 **Soft Skills:**
 - Jira
@@ -55,6 +58,7 @@ Actualmente estoy trabajando como desarrollador frontend en una startup de Espa√
 
 - **Email:** sebastian.perez.jobs@gmail.com
 
+<br>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=SebaPerez90&label=Profile%20views&color=515BB9&style=flat" alt="SebaPerez90" /> </p>
 
