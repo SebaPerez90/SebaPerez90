@@ -4,7 +4,7 @@
 
 
 ¡Hola! Soy Sebastián, desarrollador frontend vivo en Buenos Aires y cuento con más de 2 años de experiencia en el área de desarrollo de software. Gracias a mi versatilidad, también tengo una sólida experiencia en el área de desarrollo backend.
-<br>
+<br><br>
 Actualmente estoy trabajando como desarrollador frontend en una startup de España y también desarrollador freelance independiente. Estoy abierto a posiciones y desafio que me permitan mejorar mi perfil profesional.
 
 <br><br>
