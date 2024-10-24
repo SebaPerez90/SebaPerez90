@@ -2,7 +2,6 @@
 
 ![ Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFXfwNh8o04eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724223131760?e=1735171200&v=beta&t=OCpGixauHcjTFo18wGkdoDmLjzfjDWZ7raNYFUKwYOI)
 
-
 ¡Hola! Soy Sebastián, desarrollador frontend vivo en Buenos Aires y cuento con más de 2 años de experiencia en el área de desarrollo de software. Gracias a mi versatilidad, también tengo una sólida experiencia en el área de desarrollo backend.
 <br><br>
 Actualmente estoy trabajando como desarrollador frontend en una startup de España y también desarrollador freelance independiente. Estoy abierto a posiciones y desafio que me permitan mejorar mi perfil profesional.
@@ -19,7 +18,7 @@ Actualmente estoy trabajando como desarrollador frontend en una startup de Espa�
 - Typescript y Javascript
 - CSS (puro) y Sass (preprocesador)
 
-<br>
+<br><br>
 
 **Backend Stack:**
 - Git
@@ -33,7 +32,7 @@ Actualmente estoy trabajando como desarrollador frontend en una startup de Espa�
 - ORMs
 - ODMs
 
-<br>
+<br><br>
 
 **Soft Skills:**
 - Jira
@@ -54,7 +53,7 @@ Actualmente estoy trabajando como desarrollador frontend en una startup de Espa�
  
 - **Portfolio:** [https://sebaperez-portfolio.vercel.app/](https://sebaperez-portfolio-v2.vercel.app/)
 
-- **Servicios:** [https://codevibes.vercel.app/](https://codevibes.vercel.app/)
+- **Servicios Freelance:** [https://codevibes.vercel.app/](https://codevibes.vercel.app/)
 
 - **Email:** sebastian.perez.jobs@gmail.com
 
