@@ -1,6 +1,7 @@
 <h1 align="center">¡Hola! soy Sebastian Perez 👋</h1> 
 
-![ Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFXfwNh8o04eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724223131760?e=1735171200&v=beta&t=OCpGixauHcjTFo18wGkdoDmLjzfjDWZ7raNYFUKwYOI
+![ Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFXfwNh8o04eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724223131760?e=1735171200&v=beta&t=OCpGixauHcjTFo18wGkdoDmLjzfjDWZ7raNYFUKwYOI)
+
 <p align="center">Desarrollador Frontend | Desarrollador Backend | Desarrollador Freelance<p>
 
 ¡Hola! Soy Sebastián, desarrollador frontend vivo en Buenos Aires y cuento con más de 2 años de experiencia en el área de desarrollo de software. Gracias a mi versatilidad, también tengo una sólida experiencia en el área de desarrollo backend.
@@ -51,9 +52,11 @@ Actualmente estoy trabajando como desarrollador frontend en una startup de Espa�
  
 - **Portfolio:** [https://sebaperez-portfolio.vercel.app/](https://sebaperez-portfolio-v2.vercel.app/)
 
-- **Servicios:** [https://codevibes.vercel.app/]
+- **Servicios:** [https://codevibes.vercel.app/](https://codevibes.vercel.app/)
 
-- **Email:** sebastian.perez.jobs@gmail.com 
+- **Email:** sebastian.perez.jobs@gmail.com
+
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=SebaPerez90&label=Profile%20views&color=515BB9&style=flat" alt="SebaPerez90" /> </p>
 
 
