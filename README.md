@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! soy Sebastian Perez 👋</h1> 
 
-![ Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFXfwNh8o04eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724223131760?e=1729728000&v=beta&t=uRsyjtB6XucREWf55-R3W3V__8BVufYeUBFPsAzo5io)
+![ Web Developer]([https://media.licdn.com/dms/image/v2/D4E16AQFXfwNh8o04eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724223131760?e=1729728000&v=beta&t=uRsyjtB6XucREWf55-R3W3V__8BVufYeUBFPsAzo5io](https://media.licdn.com/dms/image/v2/D4E16AQFXfwNh8o04eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724223131760?e=1735171200&v=beta&t=OCpGixauHcjTFo18wGkdoDmLjzfjDWZ7raNYFUKwYOI))
 <p align="center">Desarrollador Frontend | React | Next.js | TailwindCSS | Typescript | Express | PostgreSQL<p>
 
 <br>
