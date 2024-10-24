@@ -1,8 +1,8 @@
 <h1 align="center">¡Hola! soy Sebastian Perez 👋</h1> 
+<p align="center">Desarrollador Frontend | Desarrollador Backend | Desarrollador Freelance<p>
 
 ![ Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFXfwNh8o04eQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724223131760?e=1735171200&v=beta&t=OCpGixauHcjTFo18wGkdoDmLjzfjDWZ7raNYFUKwYOI)
 
-<p align="center">Desarrollador Frontend | Desarrollador Backend | Desarrollador Freelance<p>
 
 ¡Hola! Soy Sebastián, desarrollador frontend vivo en Buenos Aires y cuento con más de 2 años de experiencia en el área de desarrollo de software. Gracias a mi versatilidad, también tengo una sólida experiencia en el área de desarrollo backend.
 <br>
