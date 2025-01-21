@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! soy Sebastian Perez</h1> 
-<h3 align="center">Desarrollador Frontend y Backend</h3> 
+<h3 align="center">Desarrollador Frontend y Backend</h2> 
 
-vivo en Buenos Aires y cuento con más de 2 años de experiencia en el área de desarrollo de software. Gracias a mi versatilidad, también tengo una sólida experiencia en el área de desarrollo backend.
+Vivo en Buenos Aires y cuento con más de 2 años de experiencia en el área de desarrollo de software. Gracias a mi versatilidad, también tengo una sólida experiencia en el área de desarrollo backend.
 <br><br>
 Actualmente estoy trabajando como desarrollador frontend en una startup de España y también como desarrollador freelance independiente. Estoy abierto a posiciones y desafio que me permitan mejorar mi perfil profesional.
 
