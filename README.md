@@ -5,8 +5,10 @@
 (2 o 3 oraciones. Máximo. No más.)
 
 ## 🧩 Tecnologías y herramientas
-• 💻 Stack tecnológico - Frontend: React.js | Next.js | TypeScript | JavaScript | TailwindCSS | HTML | CSS
+• 💻 Stack tecnológico - Frontend: React.js | Next.js | TypeScript | JavaScript | TailwindCSS | HTML | CSS 
+</br>
 • 🌐 Stack tecnológico - Backend: Node.js | Express.js | NestJS | PostgreSQL | MongoDB 
+</br>
 • 🛠️ Herramientas: Git | GitHub | Jira | ClickUp | Figma | Postman
  
 
