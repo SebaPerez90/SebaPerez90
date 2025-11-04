@@ -16,9 +16,9 @@ Vivo en Buenos Aires, Argentina, dejame un mensaje para saber como podemos colab
 </br>
 
 ## 🦾 Lo que me impulsa
-• Resolver problemas reales
-• Crear experiencias fluidas, rápidas y claras para aumentar tu conversión de clientes
-• Dejar valor medible en cada entrega
+• Resolver problemas reales </br>
+• Crear experiencias fluidas, rápidas y claras para aumentar tu conversión de clientes </br>
+• Dejar valor medible en cada entrega </br>
 • Encontrar pequeños ajustes que generan grandes resultados
 
  </br>
