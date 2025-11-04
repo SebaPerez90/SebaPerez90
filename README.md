@@ -61,6 +61,37 @@ Actualmente estoy trabajando como desarrollador frontend en una startup de Espa�
 
 <br>
 
+# Hola, soy ___ ✨
+
+## 🦋 Sobre mí
+1 párrafo corto
+(2 o 3 oraciones. Máximo. No más.)
+
+## 🧩 Tecnologías y herramientas
+JavaScript | React | Next.js  
+Node.js | Express.js  
+HTML5 | CSS3 | TailwindCSS  
+MongoDB | PostgreSQL  
+Git | GitHub
+
+## 🤍 Lo que me impulsa
+• bullet 1  
+• bullet 2  
+• bullet 3
+
+## 🌱 Aprendizaje continuo
+Actualmente estoy profundizando en:
+
+• tema 1  
+• tema 2
+
+## ☕ ¿Charlamos?
+LinkedIn: <link>  
+Email: <mail>
+
+Última línea 1 oración → invitación / CTA
+
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=SebaPerez90&label=Profile%20views&color=515BB9&style=flat" alt="SebaPerez90" /> </p>
 
 
