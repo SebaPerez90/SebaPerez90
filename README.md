@@ -24,8 +24,8 @@ Vivo en Buenos Aires, Argentina, dejame un mensaje para saber como podemos colab
  </br>
 
 ## ☕ ¿Charlamos?
-Portfolio: [https://sebaperez-portfolio.vercel.app/](https://sebaperez-portfolio-v2.vercel.app/)
-LinkedIn: [https://www.linkedin.com/in/sebaperez90/](https://www.linkedin.com/in/sebaperez90/) 
+Portfolio: [https://sebaperez-portfolio.vercel.app/](https://sebaperez-portfolio-v2.vercel.app/) </br>
+LinkedIn: [https://www.linkedin.com/in/sebaperez90/](https://www.linkedin.com/in/sebaperez90/) </br>
 Email: sebastian.perez.jobs@gmail.com
 
 
