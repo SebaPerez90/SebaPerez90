@@ -1,8 +1,8 @@
 # Hola, soy Sebastian Perez 
 
 ##  Sobre mí
-1 párrafo corto
-(2 o 3 oraciones. Máximo. No más.)
+Desarrollador web con más de 3 años de experiencia creando aplicaciones personalizadas centradas en las necesidades y requerimientos del usuario.
+Vivo en Buenos Aires, Argentina, dejame un mensaje para saber como podemos colaborar juntos.
 
 ## 🧩 Tecnologías y herramientas
 • 💻 Stack tecnológico - Frontend: React.js | Next.js | TypeScript | JavaScript | TailwindCSS | HTML | CSS 
@@ -13,7 +13,7 @@
  
 
 
-## 🤍 Lo que me impulsa
+## Lo que me impulsa
 • bullet 1  
 • bullet 2  
 • bullet 3
