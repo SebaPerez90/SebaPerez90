@@ -14,22 +14,16 @@ Vivo en Buenos Aires, Argentina, dejame un mensaje para saber como podemos colab
 
 
 ## Lo que me impulsa
-• bullet 1  
-• bullet 2  
-• bullet 3
+• Resolver problemas reales
+• Crear experiencias fluidas, rápidas y claras para aumentar tu conversión de clientes
+• Dejar valor medible en cada entrega
+• Encontrar pequeños ajustes que generan grandes resultados
 
-## 🌱 Aprendizaje continuo
-Actualmente estoy profundizando en:
-
-• tema 1  
-• tema 2
 
 ## ☕ ¿Charlamos?
 Portfolio: [https://sebaperez-portfolio.vercel.app/](https://sebaperez-portfolio-v2.vercel.app/)
 LinkedIn: [https://www.linkedin.com/in/sebaperez90/](https://www.linkedin.com/in/sebaperez90/) 
 Email: sebastian.perez.jobs@gmail.com
-
-Última línea 1 oración → invitación / CTA
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=SebaPerez90&label=Profile%20views&color=515BB9&style=flat" alt="SebaPerez90" /> </p>
